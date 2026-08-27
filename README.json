@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T05:20:04.771Z",
-    "original_repository": "LutingWang/awesome-knowledge-distillation-for-object-detection",
-    "original_repository_id": 518429608,
+    "last_updated": "2026-08-27T11:49:04.485Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 518429608,
+      "language": null,
+      "last_commit": "2025-07-01T05:57:11Z",
+      "owner": "LutingWang",
+      "repo": "awesome-knowledge-distillation-for-object-detection",
+      "stars": 171
+    },
     "original_repository_sha": "eab179583b4f4e6592034b97e4f38e9582494849",
     "enhanced_repository": "enhansome/enhansome-knowledge-distillation-for-object-detection",
     "enhanced_repository_description": null,
