@@ -233,7 +233,7 @@ BCKD. *ICCV 2023*
 *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)]
 \[[arXiv](https://arxiv.org/abs/2211.13133v1)]
-<[GitHub](https://github.com/kornia/kornia) ⭐ 11,329 | 🐛 113 | 🌐 Python | 📅 2026-08-27>
+<[GitHub](https://github.com/kornia/kornia) ⭐ 11,330 | 🐛 114 | 🌐 Python | 📅 2026-08-27>
 \- By taking into account additional contrast and structural cues, feature importance, correlation, and spatial dependence in the feature space are considered in the loss formulation.
 
 * Structural Knowledge Distillation for Object Detection
