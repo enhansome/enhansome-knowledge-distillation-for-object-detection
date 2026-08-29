@@ -1,15 +1,26 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T16:57:24.329Z",
+    "last_updated": "2026-08-29T04:51:53.201Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome knowledge distillation papers and codes for object detection.",
+      "homepage": null,
       "id": 518429608,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-07-01T05:57:11Z",
+      "open_issues": 1,
       "owner": "LutingWang",
       "repo": "awesome-knowledge-distillation-for-object-detection",
-      "stars": 171
+      "stars": 171,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "knowledge-distillation",
+        "object-detection"
+      ]
     },
     "original_repository_sha": "eab179583b4f4e6592034b97e4f38e9582494849",
     "enhanced_repository": "enhansome/enhansome-knowledge-distillation-for-object-detection",
