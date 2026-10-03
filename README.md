@@ -1,6 +1,6 @@
 # Awesome Knowledge Distillation for Object Detection with stars
 
-[![lint](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection/actions/workflows/lint.yaml/badge.svg)](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection/actions/workflows/lint.yaml) ⭐ 171 | 🐛 1 | 📅 2025-07-01
+[![lint](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection/actions/workflows/lint.yaml/badge.svg)](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection/actions/workflows/lint.yaml)
 
 A curated list of **awesome** distillation techniques designed for object detectors.
 
@@ -233,7 +233,7 @@ BCKD. *ICCV 2023*
 *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)]
 \[[arXiv](https://arxiv.org/abs/2211.13133v1)]
-<[GitHub](https://github.com/kornia/kornia) ⭐ 11,391 | 🐛 211 | 🌐 Python | 📅 2026-10-02>
+<[GitHub](https://github.com/kornia/kornia) ⭐ 11,395 | 🐛 212 | 🌐 Python | 📅 2026-10-02>
 \- By taking into account additional contrast and structural cues, feature importance, correlation, and spatial dependence in the feature space are considered in the loss formulation.
 
 * Structural Knowledge Distillation for Object Detection
@@ -413,4 +413,4 @@ ScaleKD. *CVPR 2023*.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
