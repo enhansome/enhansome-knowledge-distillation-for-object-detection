@@ -233,7 +233,7 @@ BCKD. *ICCV 2023*
 *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)]
 \[[arXiv](https://arxiv.org/abs/2211.13133v1)]
-<[GitHub](https://github.com/kornia/kornia) ⭐ 11,438 | 🐛 153 | 🌐 Python | 📅 2026-10-20>
+<[GitHub](https://github.com/kornia/kornia) ⭐ 11,440 | 🐛 143 | 🌐 Python | 📅 2026-10-21>
 \- By taking into account additional contrast and structural cues, feature importance, correlation, and spatial dependence in the feature space are considered in the loss formulation.
 
 * Structural Knowledge Distillation for Object Detection
@@ -312,7 +312,7 @@ HEAD. *ECCV 2022*.
 PKD. *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=Q9dj3MzY1o7)]
 \[[arXiv](https://arxiv.org/abs/2207.02039v2)]
-<[GitHub](https://github.com/open-mmlab/mmrazor) ⭐ 1,686 | 🐛 167 | 🌐 Python | 📅 2024-06-11>
+<[GitHub](https://github.com/open-mmlab/mmrazor) ⭐ 1,687 | 🐛 167 | 🌐 Python | 📅 2024-06-11>
 \- Imitate features with Pearson Correlation Coefficient to focus on the relational information from the teacher and relax constraints on the magnitude of the features.
 
 * PKD: General Distillation Framework for Object Detectors via Pearson Correlation Coefficient
@@ -413,4 +413,4 @@ ScaleKD. *CVPR 2023*.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
