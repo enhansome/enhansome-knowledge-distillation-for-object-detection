@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-06T12:32:08.910Z",
+    "last_updated": "2026-11-07T11:22:02.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome knowledge distillation papers and codes for object detection.",
@@ -13,7 +13,7 @@
       "open_issues": 1,
       "owner": "LutingWang",
       "repo": "awesome-knowledge-distillation-for-object-detection",
-      "stars": 172,
+      "stars": 171,
       "topics": [
         "awesome",
         "awesome-list",
