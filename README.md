@@ -143,7 +143,7 @@ CD. *ICCV 2021*.
 \[[CVF](http://openaccess.thecvf.com/content/ICCV2021/html/Shu_Channel-Wise_Knowledge_Distillation_for_Dense_Prediction_ICCV_2021_paper.html)]
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9710762/)]
 \[[arXiv](http://arxiv.org/abs/2011.13256)]
-<[GitHub](https://github.com/irfanICMLL/TorchDistiller/tree/main/SemSeg-distill) ⭐ 195 | 🐛 6 | 🌐 Python | 📅 2021-08-27>
+<[GitHub](https://github.com/irfanICMLL/TorchDistiller/tree/main/SemSeg-distill) ⭐ 196 | 🐛 6 | 🌐 Python | 📅 2021-08-27>
 \- Normalize the activation map of each channel to obtain a soft probability map.
 
 * Channel-wise Knowledge Distillation for Dense Prediction
@@ -195,7 +195,7 @@ LAD. *WACV 2022*.
 \[[CVF](https://openaccess.thecvf.com/content/WACV2022/html/Nguyen_Improving_Object_Detection_by_Label_Assignment_Distillation_WACV_2022_paper.html)]
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9706993/)]
 \[[arXiv](http://arxiv.org/abs/2108.10520)]
-<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/lad) ⭐ 33,026 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
+<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/lad) ⭐ 33,030 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
 \- Use the teacher network to generate labels for the student, through the hard labels dynamically  assigned by the teacher.
 
 * Improving Object Detection by Label Assignment Distillation
@@ -233,7 +233,7 @@ BCKD. *ICCV 2023*
 *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)]
 \[[arXiv](https://arxiv.org/abs/2211.13133v1)]
-<[GitHub](https://github.com/kornia/kornia) ⭐ 12,354 | 🐛 158 | 🌐 Python | 📅 2026-11-08>
+<[GitHub](https://github.com/kornia/kornia) ⭐ 12,362 | 🐛 139 | 🌐 Python | 📅 2026-11-09>
 \- By taking into account additional contrast and structural cues, feature importance, correlation, and spatial dependence in the feature space are considered in the loss formulation.
 
 * Structural Knowledge Distillation for Object Detection
@@ -258,7 +258,7 @@ LD. *CVPR 2022*.
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9878414/)]
 \[[arXiv](http://arxiv.org/abs/2102.12252)]
 <[GitHub](https://github.com/HikariTJU/LD) ⭐ 393 | 🐛 28 | 🌐 Python | 📅 2024-10-24>
-<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/ld) ⭐ 33,026 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
+<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/ld) ⭐ 33,030 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
 \- Standard KD by adopting the general localization representation of bounding box.
 
 * Localization Distillation for Dense Object Detection
@@ -312,7 +312,7 @@ HEAD. *ECCV 2022*.
 PKD. *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=Q9dj3MzY1o7)]
 \[[arXiv](https://arxiv.org/abs/2207.02039v2)]
-<[GitHub](https://github.com/open-mmlab/mmrazor) ⭐ 1,690 | 🐛 167 | 🌐 Python | 📅 2024-06-11>
+<[GitHub](https://github.com/open-mmlab/mmrazor) ⭐ 1,691 | 🐛 167 | 🌐 Python | 📅 2024-06-11>
 \- Imitate features with Pearson Correlation Coefficient to focus on the relational information from the teacher and relax constraints on the magnitude of the features.
 
 * PKD: General Distillation Framework for Object Detectors via Pearson Correlation Coefficient
@@ -413,4 +413,4 @@ ScaleKD. *CVPR 2023*.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
