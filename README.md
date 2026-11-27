@@ -58,7 +58,7 @@ FGFI. *CVPR 2019*.
 \[[CVF](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Distilling_Object_Detectors_With_Fine-Grained_Feature_Imitation_CVPR_2019_paper.html)]
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8953432/)]
 \[[arXiv](http://arxiv.org/abs/1906.03609)]
-<[GitHub](https://github.com/twangnh/Distilling-Object-Detectors) ⭐ 418 | 🐛 25 | 🌐 Python | 📅 2021-07-15>
+<[GitHub](https://github.com/twangnh/Distilling-Object-Detectors) ⭐ 417 | 🐛 25 | 🌐 Python | 📅 2021-07-15>
 \- A fine-grained feature imitation method exploiting the cross-location discrepancy of feature response.
 
 * Distilling Object Detectors With Fine-Grained Feature Imitation
@@ -195,7 +195,7 @@ LAD. *WACV 2022*.
 \[[CVF](https://openaccess.thecvf.com/content/WACV2022/html/Nguyen_Improving_Object_Detection_by_Label_Assignment_Distillation_WACV_2022_paper.html)]
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9706993/)]
 \[[arXiv](http://arxiv.org/abs/2108.10520)]
-<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/lad) ⭐ 33,054 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
+<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/lad) ⭐ 33,055 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
 \- Use the teacher network to generate labels for the student, through the hard labels dynamically  assigned by the teacher.
 
 * Improving Object Detection by Label Assignment Distillation
@@ -233,7 +233,7 @@ BCKD. *ICCV 2023*
 *NeurIPS 2022*.
 \[[OpenReview](https://openreview.net/forum?id=O3My0RK9s_R)]
 \[[arXiv](https://arxiv.org/abs/2211.13133v1)]
-<[GitHub](https://github.com/kornia/kornia) ⭐ 12,411 | 🐛 111 | 🌐 Python | 📅 2026-11-25>
+<[GitHub](https://github.com/kornia/kornia) ⭐ 12,444 | 🐛 117 | 🌐 Python | 📅 2026-11-25>
 \- By taking into account additional contrast and structural cues, feature importance, correlation, and spatial dependence in the feature space are considered in the loss formulation.
 
 * Structural Knowledge Distillation for Object Detection
@@ -258,7 +258,7 @@ LD. *CVPR 2022*.
 \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9878414/)]
 \[[arXiv](http://arxiv.org/abs/2102.12252)]
 <[GitHub](https://github.com/HikariTJU/LD) ⭐ 393 | 🐛 28 | 🌐 Python | 📅 2024-10-24>
-<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/ld) ⭐ 33,054 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
+<[MMDet](https://github.com/open-mmlab/mmdetection/tree/master/configs/ld) ⭐ 33,055 | 🐛 1,967 | 🌐 Python | 📅 2024-08-21>
 \- Standard KD by adopting the general localization representation of bounding box.
 
 * Localization Distillation for Dense Object Detection
@@ -413,4 +413,4 @@ ScaleKD. *CVPR 2023*.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
